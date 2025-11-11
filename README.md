@@ -146,12 +146,6 @@ The experiment showcases how prompt complexity directly affects AI output qualit
 
 ---
 
-## 🧾 Sample Output Screenshot
-📸 *Screenshot_2025-10-09_090958.png*  
-*(Insert your generated ChatGPT simulation screenshot here)*  
-
----
-
 ## 🧠 Result
 The experiment successfully demonstrated how **prompt engineering** can be applied to develop adaptive, interactive AI applications.  
 
