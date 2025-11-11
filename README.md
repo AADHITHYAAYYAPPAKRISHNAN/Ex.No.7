@@ -1,4 +1,4 @@
-# 🧠 Ex.No.7 – Develop a Prompt-Based Application Tailored to Personal Needs
+#  Ex.No.7 – Develop a Prompt-Based Application Tailored to Personal Needs
 
 **Date:** 11/11/2025  
 **Register No:** 212222060002  
@@ -146,7 +146,7 @@ The experiment showcases how prompt complexity directly affects AI output qualit
 
 ---
 
-## 🧠 Result
+##  Result
 The experiment successfully demonstrated how **prompt engineering** can be applied to develop adaptive, interactive AI applications.  
 
 Students were able to:  
